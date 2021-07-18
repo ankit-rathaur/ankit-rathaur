@@ -25,8 +25,7 @@ I am a Programmer who enjoys problem-solving and tries to craft something innova
   <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 {"mode":"full","isActive":false}
-- ⚡ Fun fact: I love music especially lost frequencies❤️
-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain.rahulsain)
+
 
 
 
